@@ -5,7 +5,8 @@ def countdown
   counter -= 1
   puts "#{counter} SECOND(S)!"
   end
-  return   puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
+end
 
   
   
